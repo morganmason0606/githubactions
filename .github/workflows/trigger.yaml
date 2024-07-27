@@ -1,3 +1,5 @@
+name: "triggered workflow"
+
 on: 
   workflow_dispatch:
     inputs:
